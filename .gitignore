@@ -1,0 +1,22 @@
+# Gradle / Android Studio
+.gradle/
+build/
+local.properties
+.idea/
+*.iml
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Imza anahtarlari (ASLA paylasma)
+*.jks
+*.keystore
+keystore.properties
+
+# APK dosyalari repoya degil, GitHub "Releases" bolumune yuklenir
+*.apk
+*.aab
+
+# Isletim sistemi
+.DS_Store
+Thumbs.db
